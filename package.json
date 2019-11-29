@@ -1,0 +1,20 @@
+{
+  "name": "projeto-ec021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.7.12",
+    "restify": "^8.4.0",
+    "restify-router": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Campos | Lucas Lopes",
+  "license": "ISC"
+}
